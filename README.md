@@ -1,0 +1,2 @@
+# AmongUsfun
+Fun!
